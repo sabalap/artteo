@@ -202,6 +202,7 @@
   top: 80%;
   left: 50%;
   display: none;
+  transform: translate(-50%, -50%);
 }
 @media (max-width: 980px) {
   .btn-arrow {
